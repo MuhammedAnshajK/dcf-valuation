@@ -2,7 +2,7 @@
 
 A valuation of an illustrative manufacturing company using a discounted cash flow (two terminal value methods) and trading comparables, summarised in a football field chart. Built in Excel.
 
-**[⬇ Download the Excel model](https://github.com/MuhammedAnshajK/dcf-valuation/raw/main/dcf_valuation.xlsx)**
+**Downloads:** [⬇ Excel model](https://github.com/MuhammedAnshajK/dcf-valuation/raw/main/dcf_valuation.xlsx) · [⬇ PDF version](https://github.com/MuhammedAnshajK/dcf-valuation/raw/main/dcf_valuation.pdf) · [⬇ Python script](https://github.com/MuhammedAnshajK/dcf-valuation/raw/main/build_model.py)
 
 ![Valuation summary](images/summary.png)
 
@@ -54,6 +54,7 @@ Colour key: blue = hardcoded input, black = formula, green = link to another she
 ## Files
 
 - `dcf_valuation.xlsx`: the model (Cover, Forecast, WACC, DCF, Sensitivity, Comps, Summary)
+- `dcf_valuation.pdf`: print-ready PDF of every sheet, for viewing without Excel
 - `build_model.py`: Python script (openpyxl) that generates the workbook
 - `images/`: screenshots
 
