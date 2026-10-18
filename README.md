@@ -2,6 +2,8 @@
 
 A valuation of an illustrative manufacturing company using a discounted cash flow (two terminal value methods) and trading comparables, summarised in a football field chart. Built in Excel.
 
+**[⬇ Download the Excel model](https://github.com/MuhammedAnshajK/dcf-valuation/raw/main/dcf_valuation.xlsx)**
+
 ![Valuation summary](images/summary.png)
 
 ## What this does
